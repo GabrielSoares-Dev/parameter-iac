@@ -1,0 +1,1 @@
+Repositório para o gerenciamento de parâmetros ssm
